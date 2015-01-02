@@ -1,0 +1,10 @@
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/bin/Debug/SocketIoClientDotNet.dll.mdb
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/bin/Debug/SocketIoClientDotNet.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/obj/Debug/SocketIoClientDotNet.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/obj/Debug/SocketIoClientDotNet.dll.mdb
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/bin/Debug/Quobject.Collections.Immutable.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/bin/Debug/xunit.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/bin/Debug/EngineIoClientDotNet.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/bin/Debug/Newtonsoft.Json.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/bin/Debug/WebSocket4Net.dll

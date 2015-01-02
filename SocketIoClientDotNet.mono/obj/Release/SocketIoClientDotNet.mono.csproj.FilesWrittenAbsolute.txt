@@ -1,0 +1,1 @@
+/Users/marcochavezf/GitHub/SocketIoClientDotNet/Src/SocketIoClientDotNet.mono/obj/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
