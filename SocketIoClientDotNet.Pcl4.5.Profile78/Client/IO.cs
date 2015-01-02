@@ -15,17 +15,16 @@ namespace Quobject.SocketIoClientDotNet.Client
 
         private IO()
         {
-            
         }
-
+			
         public static Socket Socket(string uri)
         {
             return Socket(uri, null);
         }
 
         public static Socket Socket(string uri, Options opts)
-        {
-            return Socket(Url.Parse(uri), opts);
+		{
+			return Socket(Url.Parse(uri), opts);
         }
 
         public static Socket Socket(Uri uri)
@@ -60,7 +59,9 @@ namespace Quobject.SocketIoClientDotNet.Client
                 }
                 io = Managers[id];
             }
-            return io.Socket(uri.PathAndQuery);
+
+            //return io.Socket(uri.PathAndQuery);
+			return io.Socket(uri.AbsolutePath);
         }
 
 

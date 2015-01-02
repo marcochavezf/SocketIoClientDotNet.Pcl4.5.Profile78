@@ -211,7 +211,7 @@ namespace Quobject.SocketIoClientDotNet.Client
                 }
             }));
 
-            var errorSub = Client.On.Create(socket, Engine.EVENT_ERROR, new ListenerImpl((data) =>
+			var errorSub = Client.On.Create(socket, Engine.EVENT_ERROR, new ListenerImpl((data) =>
             {
                 log.Info("connect_error");
                 Cleanup();
