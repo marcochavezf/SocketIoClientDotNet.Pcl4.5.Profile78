@@ -1,0 +1,12 @@
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/SocketIoClientDotNet.dll.mdb
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/SocketIoClientDotNet.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/obj/Release/SocketIoClientDotNet.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/obj/Release/SocketIoClientDotNet.dll.mdb
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/WebSocket4Net.MonoTouch.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/Newtonsoft.Json.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/EngineIoClientDotNet.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/EngineIoClientDotNet.dll.mdb
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/SuperSocket.ClientEngine.Core.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/SuperSocket.ClientEngine.Protocol.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/SuperSocket.ClientEngine.Common.dll

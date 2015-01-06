@@ -35,10 +35,10 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="WebSocket4Net.MonoTouch">
-      <HintPath>..\..\..\Xamarin.Socket.IO\Xamarin.Socket.IO\lib\WebSocket4Net.MonoTouch.dll</HintPath>
+      <HintPath>..\..\Xamarin.Socket.IO\Xamarin.Socket.IO\lib\WebSocket4Net.MonoTouch.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\..\Projects\TestSocketIo\packages\Newtonsoft.Json.6.0.7\lib\portable-net45+wp80+win8+wpa81+aspnetcore50\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\SocketIoClientDotNet\Src\SocketIoClientDotNet.net45\bin\Debug\Newtonsoft.Json.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
