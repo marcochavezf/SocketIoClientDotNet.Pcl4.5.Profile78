@@ -10,3 +10,7 @@
 /Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/SuperSocket.ClientEngine.Core.dll
 /Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/SuperSocket.ClientEngine.Protocol.dll
 /Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/SuperSocket.ClientEngine.Common.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/System.Net.Http.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/ModernHttpClient.dll
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/ModernHttpClient.dll.mdb
+/Users/marcochavezf/GitHub/SocketIoClientDotNet.Pcl4.5.Profile78/SocketIoClientDotNet.Pcl4.5.Profile78/bin/Release/System.Net.Http.Primitives.dll

@@ -245,8 +245,6 @@ namespace Quobject.SocketIoClientDotNet.Client
                 }, timeout);
 
                 Subs.Enqueue(new On.ActionHandleImpl(timer.Stop));
-                ;
-
             }
 
             Subs.Enqueue(openSub);
@@ -406,6 +404,10 @@ namespace Quobject.SocketIoClientDotNet.Client
             this.SkipReconnect = true;
             this.EngineSocket.Close();
         }
+
+		public void CleanupTimers(){
+			Cleanup ();
+		}
 
 
         private void OnClose(string reason)
